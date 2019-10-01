@@ -1,1 +1,3 @@
 # Angular-Task
+
+After downloading this project please give command "npm install" in node command prompt so that it will generate node_modules folder...
